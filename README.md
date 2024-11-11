@@ -1,1 +1,4 @@
 TheAssitBot : Wearable AI Assistant for the Deaf and Mute
+The Wearable Communication Assistant is designed as a portable, AI-driven solution that leverages machine learning models for real-time sign language recognition and speech-to-text translation. Our goal is to enable this functionality on a lightweight embedded device, ensuring accessibility and ease of use. The project uses a development board with a camera for capturing visual input and requires minimal peripheral support, which enhances its portability.
+
+The system is trained to recognize a set of common sign language gestures and translate them into corresponding text or speech. Additionally, it can recognize spoken language and convert it to text for the user. This dual-mode functionality addresses different types of communication needs within a single, compact device.
